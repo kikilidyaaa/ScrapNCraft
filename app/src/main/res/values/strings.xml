@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Scrap \'n\' Craft</string>
+
+    //Splash Screen
+    <string name="tv_title_1">Scrap</string>
+    <string name="tv_title_2">\'n\'</string>
+    <string name="tv_title_3">Craft</string>
+    <string name="tv_splash_screen">Unlock Your Creativity with Scrap \'n\' Craft! Learn to Transform Waste into Wonderful Crafts. Join the Movement for a Greener Tomorrow. Reduce, Reuse, Recreate. Together, Let\'s Make a Difference!</string>
+
+    //Register Activity and Login Activity
+    <string name="tv_title_regis">Sign Up</string>
+    <string name="tv_title_login">Sign In</string>
+    <string name="ed_email">Email</string>
+    <string name="ed_password">Password</string>
+    <string name="ed_cpassword">Confirm Password</string>
+    <string name="btn_signup">Sign Up</string>
+    <string name="btn_signin">Sign In</string>
+    <string name="tv_login">Already have an account?</string>
+    <string name="tv_regis">Don\'t have an account?</string>
+
+    //Home Activity
+    <string name="title_home">Home</string>
+    <string name="tab_text_home_1">For you</string>
+    <string name="tab_text_home_2">Recently Viewed</string>
+    <string name="title_crafts">Crafts Title</string>
+
+    //Explore Activity
+    <string name="title_explore">Explore</string>
+    <string name="search_hint">Search...</string>
+    <string name="tv_category">Category</string>
+    <string name="tv_organic">Organic</string>
+    <string name="tv_non_organic">Non-Organic</string>
+
+    //Camera
+    <string name="btn_camera_x">CameraX</string>
+
+    //Library Activity
+    <string name="title_library">Library</string>
+    <string name="title_yourlibrary">Your Library</string>
+    <string name="tab_text_library_1">Saved</string>
+    <string name="tab_text_library_2">Draft</string>
+
+    //Account Activity
+    <string name="title_account">Account</string>
+    <string name="title_setting">Setting</string>
+    <string name="tab_text_account_1">My Craft</string>
+    <string name="tv_username">Username</string>
+
+    //Add Crafts Activity
+    <string name="ed_title">Title</string>
+    <string name="ed_desc">Description</string>
+    <string name="tv_title_material_tool">Materials &amp; Tools</string>
+    <string name="ed_tools">Materials &amp; Tools</string>
+    <string name="btn_add">Add</string>
+    <string name="tv_title_steps">Steps</string>
+    <string name="ed_steps">Steps</string>
+    <string name="tv_title_image">Image</string>
+    <string-array name="category_array">
+        <item>Select Item Category</item>
+        <item>Organic</item>
+        <item>Non-Organic</item>
+    </string-array>
+
+    //Detail Activity
+    <string name="tv_desc">Lorem ipsum dolor sit amet consectetur. Dolor blandit sapien libero mattis mattis justo ipsum. Nam sollicitudin habitant magnis gravida pharetra volutpat suspendisse id. Integer nulla volutpat mauris et elit lobortis. Elementum tortor consectetur lorem tempor ullamcorper consectetur quam pellentesque massa.</string>
+
+</resources>

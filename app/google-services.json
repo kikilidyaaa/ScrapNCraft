@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "308819219334",
+    "firebase_url": "https://capstone-test1-406914-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "capstone-test1-406914",
+    "storage_bucket": "capstone-test1-406914.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308819219334:android:45fd2f163abed8f6e59207",
+        "android_client_info": {
+          "package_name": "com.bangkit.scrapncraft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308819219334-pgp04tit772i7mfi787vrfo8dalbp1o7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bangkit.scrapncraft",
+            "certificate_hash": "bce18e5329b4d1682867dc95fd978a6bc58537a3"
+          }
+        },
+        {
+          "client_id": "308819219334-aaihom9ducavfat3m6nj60120nfnmabl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCglCoy794ZqTuUV7s78Jc5W4-KW4E8xV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308819219334-aaihom9ducavfat3m6nj60120nfnmabl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

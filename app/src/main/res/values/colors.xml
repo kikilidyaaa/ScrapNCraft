@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="brak_brown">#765827</color>
+    <color name="olivetone">#767327</color>
+    <color name="designer_white">#E7DFD0</color>
+    <color name="common_chalcedony">#C8AE7D</color>
+    <color name="orochimaru">#D9D9D9</color>
+    <color name="red">#FF0000</color>
+    <color name="transparent_white">#80FFFFFF</color>
+    <color name="transparent_olivetone">#80767327</color>
+    <color name="bounding_box_color">#65B741</color>
+    <color name="alabaster">#F0E9E7</color>
+</resources>
